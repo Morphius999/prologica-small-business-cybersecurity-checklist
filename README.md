@@ -4,7 +4,9 @@ A clean, lightweight static checklist tool that helps small business owners revi
 
 The checklist covers passwords, two-factor authentication, email security, software updates, backups, device security, access control, network security, and incident response. It includes browser-saved progress, a readiness percentage, and a simple risk level.
 
-Live Demo: Coming soon
+Live Demo: https://morphius999.github.io/prologica-small-business-cybersecurity-checklist/
+
+This free checklist was created by Pro Logica to help small business owners review basic cybersecurity readiness.
 
 Built by Pro Logica: https://www.prologica.ai
 
